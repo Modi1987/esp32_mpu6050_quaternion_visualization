@@ -1,0 +1,13 @@
+# Arduino/PlatformIO specific
+.pio/
+.vscode/
+*.bin
+*.elf
+
+# Python specific
+__pycache__/
+*.pyc
+.venv/
+
+# OS-specific
+.DS_Store
