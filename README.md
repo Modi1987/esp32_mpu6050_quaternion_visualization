@@ -6,7 +6,9 @@ Demo
 
 Below is a GIF that shows the output you'll see as you move the MPU6050 sensor:
 
-**`![Cube Animation](./data/animation.gif)`**
+<p align="center">
+  <img height="300" src="doc/animation.gif" />
+</p>
 
 ## Requirements
 
